@@ -11,7 +11,7 @@ document
 
     emailjs.sendForm(
         "service_dpg0npt",
-        "template_of1v0b9",
+        "template_77z9rpm",
         this
     )
 
